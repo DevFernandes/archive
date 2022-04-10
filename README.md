@@ -1,3 +1,5 @@
-# 🧑‍🎓 layout archive 
+# ✔️ Desafio de Projeto Serviços
 
-- 🧠 Desenvolvido para vendas de serviços técnicos
+Repositório criado para oferecer serviços técnicos.
+
+🚩 Técnico em Informática e Suporte em T.I
